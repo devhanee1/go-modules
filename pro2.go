@@ -1,4 +1,4 @@
-package tiger
+package go-modules
 
 import "fmt"
 
